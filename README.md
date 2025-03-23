@@ -11,7 +11,8 @@ Este projeto é um aplicativo React simples para cadastro de tarefas, onde o usu
 
 ## Como é?
 
-![Print da tela inicial](link-para-o-print-da-tela-inicial.png)
+![image](https://github.com/user-attachments/assets/3d957063-1ac4-4971-bef1-9f21380ce931)
+
 _Tela inicial com o formulário de cadastro e a lista de tarefas._
 
 
